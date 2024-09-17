@@ -31,7 +31,7 @@ git clone https://github.com/sofiyasiddique119/LanguageTranslator.git
 
 ## Demo
 
-For a live demonstration of the language translator web application, you can visit the following link: [Language Translator Demo](https://github.com/sofiyasiddique119/LanguageTranslator/)
+For a live demonstration of the language translator web application, you can visit the following link: [Language Translator Demo](https://sofiyasiddique119.github.io/LanguageTranslator/)
 
 ## Feedback and Contributions
 
